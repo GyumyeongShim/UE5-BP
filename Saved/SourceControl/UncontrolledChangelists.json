@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/WorkSpace/BP1/Content/BluePrints/Input/IA_Atk.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Input/IMC_Game.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/BP_Character.uasset",
+				"C:/WorkSpace/BP1/Content/InfinityBladeWarriors/Animations/WarriorAttack1.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/ABP_Character.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Input/NewUserDefinedEnum.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/NewUserDefinedEnum.uasset",
+				"C:/WorkSpace/BP1/Content/Maps/Level01.umap",
+				"C:/WorkSpace/BP1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/1L/NNYEMY50BC1QR5KPCZUJB5.uasset",
+				"C:/WorkSpace/BP1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0I/SPY0I33PKOD5942ISWD4EC.uasset",
+				"C:/WorkSpace/BP1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XF/0ZPO75OCY6W8F5ZMG1C1BL.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Object.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Object1.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Pawn.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_GameMode.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Punch.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Object2.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/BP_Telepoter.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/PlayerState.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/NewAnimMontage.uasset",
+				"C:/WorkSpace/BP1/Content/BluePrints/Character/AM_Atk.uasset",
+				"C:/WorkSpace/BP1/Content/InfinityBladeWarriors/Characters/SK_Mannequin_Skeleton.uasset"
+			]
+		}
+	]
+}
